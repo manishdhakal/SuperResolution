@@ -1,7 +1,5 @@
 # SRGAN
 
-## Model is Currently being trained on Colab.....
-
 ### Keywords
     GAN, SRGAN, VGG19, Keras, Transfer Learning
 
