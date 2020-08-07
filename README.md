@@ -17,3 +17,6 @@ The file *main.ipynb* is used to train the model for initial step. Later on the 
 
 ### Parameters
 The trained weights for some specific epochs can be found [here](https://drive.google.com/drive/folders/1v6Edo-bagGPPJ51_txVktGFZXWyHvert?usp=sharing)
+
+### Final Output
+![output](https://github.com/manishdhakal/SuperResolution/blob/master/md-img/op.jpg)
